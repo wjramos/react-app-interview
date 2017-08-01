@@ -1,5 +1,18 @@
 TurboTax – Front End Software Developer (Contract)
 
+Below is an outline of the craft demonstration/interview. The machine provided to you has the following installed:
+  - homebrew (`brew install foo`)
+  - npm (`npm install bar`)
+  - create-react-app (`create-react-app`)
+  - yeoman's create-redux-app (`yo create-redux-app`)
+  - atom, vscode, and sublime
+  - chrome, firefox, and safari
+
+You can start from scratch, or *clone this repo* to get started.
+  `git clone https://github.com/pabo/react-app-interview.git`
+  `cd react-app-interview/my-react-app`
+  `npm install`
+
 ### Craft Demonstration (CD): 1 hour
 
 The entire interview team attends the Craft Demonstration. The candidate will be asked to demonstrate their web development talent by implementing an application based upon provided requirements. This craft demonstration is based upon requirements that could very well be implemented on the job.
@@ -29,4 +42,3 @@ You’ve been given the task of developing an Interview Wizard Application (IWA)
 ### Finish up with Q&A with the team
 
 ### Thanks for coming!
-
