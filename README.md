@@ -28,9 +28,9 @@ You’ve been given the task of developing an Interview Wizard Application (IWA)
     - Ask three questions, one question per wizard screen
     - The question ordering should be easy to change
     - Each question in the wizard should display one of the provided images
-      - [https://turbotax.intuit.com/experiences/rtb-pods/images/icon-max-refund-retina.87850afd.png]
-      - [https://turbotax.intuit.com/experiences/rtb-pods/images/icon-accurate-retina.0b077842.png]
-      - [https://turbotax.intuit.com/experiences/rtb-pods/images/icon-audit-support-retina.a68b2663.png]
+      - https://github.com/pabo/react-app-interview/raw/master/images/icon-accurate-retina.png
+      - https://github.com/pabo/react-app-interview/raw/master/images/icon-max-refund-retina.png
+      - https://github.com/pabo/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - The user should be able to give their answer through an input field.
     - After the user inputs answers for all 3 questions, they should be taken to a final summary page with all the questions and answers displayed
 
