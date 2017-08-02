@@ -14,6 +14,7 @@ You may start from scratch, or may decide to **clone this repo**, which has been
   - `git clone https://github.com/pabo/react-app-interview.git`
   - `cd react-app-interview/my-react-app`
   - `npm install`
+  - `npm start`
 
 
 ### Exercise Requirements
