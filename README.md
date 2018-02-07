@@ -1,6 +1,7 @@
+
 ### Welcome
 
-Welcome to the craft demonstration portion of your interview! You will be asked to demonstrate your web development talent by implementing an application based upon the below requirements.
+Welcome to the craft demonstration portion of your interview. After a brief introduction to the team, you will be asked to demonstrate your web development talent by implementing an application based upon the below requirements. Allow yourself about 45 minutes to develop your application. At the end of the session, you will have an opportunity to ask the team any questions you may have.
 
 The machine provided to you has some commonly used tools. Feel free to install anything else you need to be productive. Installed already are:
   - homebrew (`brew install foo`)
@@ -18,11 +19,11 @@ You may start from scratch, or may decide to **clone this repo**, which has been
 
 ### Exercise Requirements
 
-You’ve been given the task of developing an Interview Wizard Application (IWA). The purpose of the IWA is to ask people one or more questions in order to learn more about them. The expectation is that each question is displayed on its own screen/view inside the wizard. In addition, it is also expected that the wizard can be embedded on a page easily in widget-type form; thus, this widget must assume that it can’t control the page that it’s on. After the user has answered all three questions, all questions and answers should be displayed to the user.
+Develop an Interview Wizard Application (IWA). The purpose of the IWA is to ask the user one or more questions in order to learn more about them. The expectation is that each question is displayed on its own screen/view inside the wizard. In addition, it is also expected that the wizard can be embedded on a page easily in widget-type form; thus, this widget must assume that it can’t control the page that it’s on. After the user has answered all three questions, all questions and answers should be displayed to the user.
 The following are specific requirements:
 
   - Coding:
-    - It is highly suggested to use the **React JS** framework
+    - **React JS** framework is preferred, but you may choose another
     - Must be **mobile responsive**
     - A CSS pre-processor can be used, but is not required (e.g. Less/Sass)
   - How it should work:
@@ -37,7 +38,3 @@ The following are specific requirements:
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-max-refund-retina.png
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - add CSS styling
-
-### Schedule
-
-Expect a short introduction to the team, followed by 45 minutes of developing your application and discussion. At the end of the session, you will have an opportunity to ask the team any questions you may have.
