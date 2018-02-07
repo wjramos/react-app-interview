@@ -38,3 +38,29 @@ The following are specific requirements:
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-max-refund-retina.png
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - add CSS styling
+    
+---    
+    
+### Design Specs 
+
+> See the design spec in `./specs/widget_spec.png`
+
+#### Questions Screen
+
+- Widget should be vertically and horizontally centered in screen
+- Widget max-width is 700px
+- Internal elements should be horizontally centered (image, question, input)
+  - Question and Input should not exceed 500px in width
+- Nav buttons should left aligned and right aligned respectfully to the width of the above elements
+- Image is dynamic. Each question should show a different image
+  - The image is to be done as a background-image, not an <img />
+  - Find the images in ``./images`
+- Remove the "back" button for first question   
+
+
+#### Answers Screen
+
+- List out the questions and answers
+- No need for any input
+- Remove the "next" button
+- Remove the image, or add a custom hero image for bonus points 
