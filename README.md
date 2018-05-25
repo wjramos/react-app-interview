@@ -43,7 +43,7 @@ The following are specific requirements:
     
 ### Design Specs 
 
-> See the design spec in `./specs/widget_spec.png`
+> See the design spec in [./specs/widget_spec.png](/specs/widget_spec.png)
 
 #### Questions Screen
 
@@ -54,7 +54,7 @@ The following are specific requirements:
 - Nav buttons should left aligned and right aligned respectfully to the width of the above elements
 - Image is dynamic. Each question should show a different image
   - The image is to be done as a background-image, not an <img />
-  - Find the images in ``./images`
+  - Find the images in [./images](/images)
 - Remove the "back" button for first question   
 
 
