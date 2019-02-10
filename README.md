@@ -1,17 +1,13 @@
 
 ### Welcome
 
-For your in-person craft demonstration, we will ask you to implement a small Single Page Application. Below you will find the [requirements](#exercise-requirements). You may prepare for your craft demonstration in advance, but we will ask you to **code this from scratch, live and in-person** during your craft demo. This will help us gain insight into your thought process and your technical skills.
+For your craft demonstration, we ask you to implement a small Single Page Application using React. Below you will find the [requirements](#exercise-requirements). Expect to demonstrate your application and talk through your code during the next interview.
 
-We invite you to use your own laptop for the craft demo. If you require a loaner we will have a MacBook Pro available for your use. More details about this machine are [below](#loaner-macbook-pro).
+We invite you to use your own laptop for the craft demo. If you do not have or are unable to use your own computer, you will be asked to implement this exercise on a computer provided by us during the next interview. Please contact your recruiter to let us know if this is the case.
 
 ### Schedule
 
-After a brief introduction to the team, you will be asked to demonstrate your web development skills by implementing the SPA detailed below. **Allow yourself no more than 45 minutes** to develop the application. 
-
 **Use your time wisely**. It would be better to deliver two working features than ten half-working ones.
-
-At the end of the session, you will have an opportunity to ask the team any questions you may have.
 
 ### Exercise Requirements
 
@@ -19,9 +15,8 @@ Develop an Interview Wizard Application (IWA). The purpose of the IWA is to ask 
 The following are specific requirements:
 
   - Coding:
-    - **React JS** framework is preferred, but you may choose another
+    - Build using the provided React JS boilerplate
     - Should be **mobile responsive**
-    - A CSS pre-processor can be used, but is not required (e.g. Less/Sass)
   - How it should work:
     - Ask three questions, one question per screen
     - The user should be able to give their response through an input field
@@ -34,10 +29,10 @@ The following are specific requirements:
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-max-refund-retina.png
       - https://github.com/pabo/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - add CSS styling
-    
----    
-    
-### Design Specs 
+
+---
+
+### Design Specs
 
 > See the design spec in [./specs/widget_spec.png](/specs/widget_spec.png)
 
@@ -51,7 +46,7 @@ The following are specific requirements:
 - Image is dynamic. Each question should show a different image
   - The image is to be done as a background-image, not an <img />
   - Find the images in [./images](/images)
-- Remove the "back" button for first question   
+- Remove the "back" button for first question
 
 
 #### Responses Screen
