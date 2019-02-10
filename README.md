@@ -25,9 +25,9 @@ The following are specific requirements:
   - If you have time:
     - The user should be able to revisit previous questions
     - Each question in the wizard should display one of the provided images
-      - https://github.com/pabo/react-app-interview/raw/master/images/icon-accurate-retina.png
-      - https://github.com/pabo/react-app-interview/raw/master/images/icon-max-refund-retina.png
-      - https://github.com/pabo/react-app-interview/raw/master/images/icon-audit-support-retina.png
+      - https://github.com/jamesarmenta/react-app-interview/raw/master/images/icon-accurate-retina.png
+      - https://github.com/jamesarmenta/react-app-interview/raw/master/images/icon-max-refund-retina.png
+      - https://github.com/jamesarmenta/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - add CSS styling
 
 ---
@@ -55,3 +55,21 @@ The following are specific requirements:
 - No need for any input
 - No "next" button
 - Remove the image, or add a custom hero image
+
+---
+
+### Loaner MacBook Pro
+
+If you require a loaner, we will provide a MacBook Pro for your use. This machine will have some commonly used tools. Feel free to install anything else you need to be productive. Installed already are:
+  - homebrew (`brew install foo`)
+  - npm (`npm install bar`)
+  - create-react-app (`create-react-app`)
+  - yeoman's create-redux-app (`yo create-redux-app`)
+  - atom, vscode, and sublime
+  - chrome, firefox, and safari
+
+You may start from scratch, or may decide to **clone this repo**, which has been bootstrapped with `create-react-app`:
+  - `git clone https://github.com/jamesarmenta/react-app-interview.git`
+  - `cd react-app-interview/my-react-app`
+  - `npm install`
+  - `npm start`
