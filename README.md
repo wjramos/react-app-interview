@@ -45,7 +45,7 @@ The following are specific requirements:
 - Nav buttons should left aligned and right aligned respectfully to the width of the above elements
 - Image is dynamic. Each question should show a different image
   - The image is to be done as a background-image, not an <img />
-  - Find the images in [./images](/images)
+  - Find the images in [./images](/my-react-app/src/images)
 - Remove the "back" button for first question
 
 
